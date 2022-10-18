@@ -1,4 +1,6 @@
-player 1 = {
-serielnomer=909611264
-date=18.10.2022
+{ 
+    "player_1" : {
+      seriel=909611264,
+      date=18.10.2022,
+    } 
 }

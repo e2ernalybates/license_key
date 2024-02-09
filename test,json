@@ -1,5 +1,1 @@
-{ 
-   "USER #1" : {
-     nick = "PETIA", admLVL = "4",
-   }
-}
+nick = "PETIA", admLVL = "4",

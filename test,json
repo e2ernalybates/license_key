@@ -1,1 +1,5 @@
-nick = "PETIA", admLVL = "4",
+{ 
+   "VK/TG/DS USER" : {
+     nick = "PETIA", admLVL = "4",
+   }
+}

@@ -1,8 +1,5 @@
-serial = "909611264"
-serial = "143739747"
-serial = "914508936"
-serial = "1429314867"
-serial = "3056414609"
-serial = "1316885114"
-serial = "1156278798"
-serial = "704725104"
+{ 
+   "USER #1" : {
+     nick = "7SG", admLVL = "4",
+   }
+}
